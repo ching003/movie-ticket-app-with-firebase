@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Ticket App</string>
+    <!-- URL trong Firebase Console > Realtime Database. DB moi thuong la *.REGION.firebasedatabase.app (sua region neu khac). -->
+    <string name="firebase_database_url" translatable="false">https://fir-36971-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <!-- Tai khoan demo: lan dau bam Dang nhap se tu tao tren Firebase Auth (email demo@movieticket.app) -->
+    <string name="demo_account_username">demo</string>
+    <string name="demo_account_password">123456</string>
+</resources>

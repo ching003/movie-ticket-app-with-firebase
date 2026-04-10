@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Tong tim - trang: nen sang, accent tim, thanh tim -->
+    <color name="dark_background">#FAF7FF</color>
+    <color name="dark_surface">#5B21B6</color>
+    <color name="dark_surface_elevated">#FFFFFF</color>
+    <color name="dark_input">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_elevated">#F3EEFF</color>
+
+    <!-- Tim chu dao (giu ten primary_orange de khong phai sua Java) -->
+    <color name="primary_orange">#7C3AED</color>
+    <color name="primary_orange_dark">#5B21B6</color>
+    <color name="accent_mint">#C4B5FD</color>
+    <color name="accent_mint_dim">#8B5CF6</color>
+    <color name="border_subtle">#E9E0F5</color>
+
+    <color name="text_primary">#2D2640</color>
+    <color name="text_secondary">#6B6090</color>
+    <color name="text_hint">#9A8FB8</color>
+
+    <color name="toolbar_title">#FFFFFF</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="success">#16A34A</color>
+    <color name="error">#DC2626</color>
+    <color name="warning">#D97706</color>
+
+    <color name="seat_available">#7CB893</color>
+    <color name="seat_selected">#9333EA</color>
+    <color name="seat_booked">#B8A8D0</color>
+</resources>

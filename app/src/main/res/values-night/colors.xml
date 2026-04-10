@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_background">#1A0B2E</color>
+    <color name="dark_surface">#5B21B6</color>
+    <color name="dark_surface_elevated">#2D1B4E</color>
+    <color name="dark_input">#3D2E5C</color>
+    <color name="card_background">#3D2E5C</color>
+    <color name="card_background_elevated">#4C3868</color>
+    <color name="border_subtle">#5B3A8C</color>
+    <color name="text_primary">#FAF5FF</color>
+    <color name="text_secondary">#D8B4FE</color>
+    <color name="text_hint">#A78BFA</color>
+</resources>
